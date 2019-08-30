@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DummyLayout</string>
+    <string name="toolbar_name">Dummy</string>
+    <string name="Count">Count = 0</string>
+    <string name="testBack">An Android app crashes whenever there’s an unexpected exit caused by an unhandled exception or signal. An app that is written using Java crashes if it throws an unhandled exception, represented by the Throwable class. An app that is written using native-code languages crashes if there’s an unhandled signal, such as SIGSEGV, during its execution.</string>
+</resources>
